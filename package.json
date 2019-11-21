@@ -4,7 +4,7 @@
   "description": "airline database server",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3001 -w airline.json"
+    "start": "json-server -p 4000 -w db.json"
   },
   "author": "Deepanshu",
   "license": "ISC",
